@@ -1,4 +1,0 @@
-
-function pdf(){
-    print();
-}
